@@ -1,0 +1,104 @@
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\ApplicationInsights.config
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\BCCIAPI.dll.config
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\BCCIAPI.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\BCCIAPI.pdb
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Antlr3.Runtime.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\EntityFramework.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\EntityFramework.SqlServer.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.AI.Web.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.ApplicationInsights.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Newtonsoft.Json.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Net.Http.Formatting.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Helpers.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Http.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Http.WebHost.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Mvc.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Optimization.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Razor.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.Deployment.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.Razor.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\WebGrease.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\EntityFramework.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\EntityFramework.SqlServer.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Newtonsoft.Json.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Net.Http.Formatting.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Helpers.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Http.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Http.WebHost.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Mvc.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Optimization.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.Razor.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.Deployment.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.Razor.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Antlr3.Runtime.pdb
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.ApplicationInsights.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\bin\Microsoft.AI.Web.xml
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\obj\Debug\BCCIAPI.csprojResolveAssemblyReference.cache
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\obj\Debug\BCCIAPI.csproj.CoreCompileInputs.cache
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\obj\Debug\BCCIAPI.dll
+c:\users\faizank\source\repos\BCCIAPI\BCCIAPI\obj\Debug\BCCIAPI.pdb
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\ApplicationInsights.config
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\BCCIAPI.dll.config
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\BCCIAPI.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\BCCIAPI.pdb
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Antlr3.Runtime.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\EntityFramework.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.AI.Web.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Newtonsoft.Json.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Helpers.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Http.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Mvc.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Optimization.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Razor.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\WebGrease.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\EntityFramework.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Newtonsoft.Json.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Helpers.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Http.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Mvc.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Optimization.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.Razor.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Antlr3.Runtime.pdb
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\bin\Microsoft.AI.Web.xml
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\obj\Debug\BCCIAPI.csprojResolveAssemblyReference.cache
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\obj\Debug\BCCIAPI.csproj.CoreCompileInputs.cache
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\obj\Debug\BCCIAPI.dll
+C:\Users\faizank\Desktop\My_Work\Learning Folder\Assignments\Assignment 2\Third_Try\BCCIAPI\BCCIAPI\obj\Debug\BCCIAPI.pdb

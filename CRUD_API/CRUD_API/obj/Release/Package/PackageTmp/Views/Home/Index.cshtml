@@ -1,0 +1,44 @@
+﻿<div class="jumbotron">
+    <p style="text-align:center;"><a href="@Url.Action("Index", "Home")" class="btn btn-primary btn-lg">See the Weather</a></p>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Lets Get Started </h2>
+    </div>
+    <div class="col-md-4">
+        <h2>Weather Web Application</h2>
+
+        <div style="padding:1em;">
+           
+            <form method="post" action="@Url.Action("SearchCity", "Home")">
+                <label for="city">Enter City:</label>
+                <input type="text" id="city" name="city" required>
+                <button class="btn btn-success" type="submit">Search</button>
+            </form>
+            <br /> <br />
+            @if (ViewBag.Temperature != null)
+            {
+            <div style="padding:0.5em 1em; background-color:lightblue; border-radius:1em;">
+              <h3>Weather Data for @ViewBag.City</h3>
+              <p>Temperature: @ViewBag.Temperature</p>
+              <p>Humidity: @ViewBag.Humidity</p>
+              <p>Sunrise: @ViewBag.Sunrise</p>
+           </div>
+            }
+
+            @if (ViewBag.Error != null)
+            {
+                <div style="background-color:lightcoral; padding:0.7em 1em; border-radius:0.5em; text-align:center;">
+                  <p style="color:darkred;">Error: @ViewBag.Error</p>
+                </div>
+            }
+        </div>
+       
+    </div>
+    <div class="col-md-4">
+    </div>
+</div>
+
+<div style="background-color:lightgray; color:darkblue; padding:0.4em 1em; border-radius:0.5em; text-align:center;">
+    @ViewBag.Message
+</div>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Test_DBModel2StoreContainer" CdmEntityContainer="Test_DBEntities2">
+    <EntitySetMapping Name="BCMatches">
+      <EntityTypeMapping TypeName="Test_DBModel2.BCMatch">
+        <MappingFragment StoreEntitySet="BCMatches">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SerieId" ColumnName="SerieId" />
+          <ScalarProperty Name="Opponent" ColumnName="Opponent" />
+          <ScalarProperty Name="MatchDate" ColumnName="MatchDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,56 @@
+﻿@model List<CRUD_API.Models.BCSery>
+
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div style="padding:2em 0em; ">
+    <h3 style="text-align:center;">Your BCCI Series</h3>
+    <hr />
+    <div style="padding:1em 1em; border: 1px solid black; border-radius:0.5em;">
+
+
+        @foreach (var item in Model)
+        {
+        <div class="row" style="margin:0px;">
+           
+           <div class="col-lg-1" style="border-right:1px solid black;">
+               ID: <span>@item.Id</span>
+           </div>
+           <div class="col-lg-3" style="border-right:1px solid black;">
+               <a href="@Url.Action("GetMatches","BCSeries", new { Id=item.Id})">
+                   Name:  <span>@item.Name</span>
+               </a>
+           </div>
+            <div class="col-lg-3"  style="border-right:1px solid black;">
+              StartDate: <spam>@item.StartDate</spam>
+            </div>
+            <div class="col-lg-3"  style="border-right:1px solid black;">
+               End Date: <span>@item.EndDate</span>
+            </div>
+            <div class="col-lg-1"  style="border-right:1px solid black;">
+              Venue:  <span>@item.Venue</span>
+            </div>
+            <div class="col-lg-1" style="display:flex;">
+                <a class="icon" href="@Url.Action("UpdateSeries", "BCSeries", new { id=item.Id})">
+                    <img src="https://icons.veryicon.com/png/o/miscellaneous/linear-small-icon/edit-246.png" alt="Alt Text" style="width: 2em; height: auto; display:inline;" />
+                </a>
+                &nbsp
+                <a class="icon" href="@Url.Action("DeleteSeries", "BCSeries", new { id=item.Id})">
+                    <img src="https://cdn-icons-png.freepik.com/512/6861/6861362.png" alt="Alt Text" style="width: 2em; height: auto; display:inline;" />
+                </a>
+            </div>
+        </div> <!-- row ended -->
+            <hr style="border: 1px solid grey;" />
+        }
+        @ViewBag.ErrorMessage
+    </div>
+    <br />
+    <div style="text-align:center">
+        <a class="btn btn-success" href="@Url.Action("Create", "BCSeries")">Create Series</a>
+    </div>
+
+</div>
+

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Test_DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BCMatch">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SerieId" Type="Int32" />
+    <Property Name="Opponent" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MatchDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="BCSery" Relationship="Self.FK__BCMatches__Serie__5AB9788F" FromRole="BCMatches" ToRole="BCSeries" />
+  </EntityType>
+  <EntityType Name="BCSery">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="StartDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="EndDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Venue" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="BCMatches" Relationship="Self.FK__BCMatches__Serie__5AB9788F" FromRole="BCSeries" ToRole="BCMatches" />
+  </EntityType>
+  <Association Name="FK__BCMatches__Serie__5AB9788F">
+    <End Role="BCSeries" Type="Self.BCSery" Multiplicity="0..1" />
+    <End Role="BCMatches" Type="Self.BCMatch" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BCSeries">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BCMatches">
+        <PropertyRef Name="SerieId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Test_DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BCMatches" EntityType="Self.BCMatch" />
+    <EntitySet Name="BCSeries" EntityType="Self.BCSery" />
+    <AssociationSet Name="FK__BCMatches__Serie__5AB9788F" Association="Self.FK__BCMatches__Serie__5AB9788F">
+      <End Role="BCSeries" EntitySet="BCSeries" />
+      <End Role="BCMatches" EntitySet="BCMatches" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
